@@ -140,7 +140,7 @@ if(isset($_SESSION["uid"])){
 						</div>
 						<!--<div class="col-md-4">
 							<div class="panel panel-info">
-								<div class="panel-heading">Samsung Galaxy</div>
+								<div class="panel-heading">honey</div>
 								<div class="panel-body">
 									<img src="product_images/images.JPG"/>
 								</div>
